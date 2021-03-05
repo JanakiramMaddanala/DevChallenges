@@ -58,6 +58,15 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY) was to build an application to complete the given user stories.
 
+- User story: I can see different button types: default, outline and text
+- User story: I can choose to disable box-shadow
+- User story: I can choose to disable the button
+- User story: I can choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
+- User story: I can have different button sizes
+- User story: I can have different colors
+- User story: When I hover or focus, I can see visual indicators
+- User story: I can still access all button attributes
+
 ## How To Use
 
 <!-- This is an example, please update according to your application -->
@@ -85,6 +94,7 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+<!-- - Website [your-website.com](https://{your-web-site-link}) -->
+
 - GitHub [JanakiramMaddanala](https://github.com/JanakiramMaddanala)
 - Twitter [MaddanalaRam](https://twitter.com/MaddanalaRam)
