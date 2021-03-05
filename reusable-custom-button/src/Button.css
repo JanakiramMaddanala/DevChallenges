@@ -1,0 +1,127 @@
+.btn-block {
+  display: flex;
+  flex-direction: column;
+  margin: 16px;
+}
+
+.btn-block-container {
+  display: flex;
+}
+
+.btn-block-label {
+  margin-bottom: 16px;
+}
+
+.btn {
+  width: 81px;
+  height: 36px;
+  border-radius: 6px;
+  font: normal normal 500 14px/20px "Noto Sans JP";
+  text-align: center;
+  border: none;
+}
+
+.btn-default {
+  background: #e0e0e0;
+  color: #3f3f3f;
+  box-shadow: 0px 2px 3px rgba(51, 51, 51, 0.2);
+}
+
+.btn-default:hover,
+.btn-default:focus {
+  background: #aeaeae;
+}
+
+.btn-outline {
+  border: 1px solid #3d5afe;
+  color: #3d5afe;
+}
+
+.btn-outline:hover,
+.btn-outline:focus {
+  background: rgba(41, 98, 255, 0.1);
+}
+
+.btn-text {
+  color: #3d5afe;
+  background: none !important;
+}
+
+.btn-text:hover,
+.btn-text:focus {
+  background-color: rgba(41, 98, 255, 0.1);
+}
+
+.btn-disable-shadow {
+  background-color: #3d5afe;
+  color: #ffffff;
+}
+
+.btn-disabled {
+  color: #9e9e9e;
+  background-color: #e0e0e0;
+}
+
+.btn-icon {
+  background-color: #3d5afe;
+  color: #ffffff;
+  width: 105px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.btn-sm {
+  background-color: #3d5afe;
+  color: #ffffff;
+  width: 73px;
+  height: 32px;
+}
+
+.btn-md {
+  width: 81px;
+  height: 36px;
+  background-color: #3d5afe;
+  color: #ffffff;
+}
+
+.btn-lg {
+  width: 93px;
+  height: 42px;
+  background-color: #3d5afe;
+  color: #ffffff;
+}
+
+.btn-primary {
+  background: #2962ff;
+  box-shadow: 0px 2px 3px rgba(41, 98, 255, 0.2);
+  color: #ffffff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background: #0039cb;
+}
+
+.btn-secondary {
+  background: #455a64;
+  box-shadow: 0px 2px 3px rgba(69, 90, 100, 0.2);
+  color: #ffffff;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus {
+  background: #1c313a;
+}
+
+.btn-danger {
+  background: #d32f2f;
+  box-shadow: 0px 2px 3px rgba(211, 47, 47, 0.2);
+  color: #ffffff;
+}
+
+.btn-danger:hover,
+.btn-danger:focus {
+  background: #9a0007;
+}
